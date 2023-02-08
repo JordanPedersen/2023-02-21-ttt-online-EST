@@ -10,7 +10,7 @@ enddate: 2023-02-24        # machine-readable end date for the workshop in YYYY-
 instructor: ["Nathaniel Porter", "Jordan Pedersen"] # boxed, comma-separated list of instructors' names as strings, like []
 # helper: ["FIXME"]     boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["jordan.pedersen@utoronto.ca"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like []
-etherpad:             # optional: URL for the workshop Etherpad if there is one
+etherpad:https://pad.carpentries.org/2023-02-21-ttt-online-EST # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:            # for online events, delete the second section below. for in-person events, customize the second section and delete the first section.
   - venue: "Online" 
